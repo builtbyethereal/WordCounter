@@ -24,20 +24,6 @@ Built by **Ethereal Studios**.
 └── assets/         # Logos
 ```
 
-## Running Locally
-
-No build step is required. Either open `index.html` directly in a browser, or serve the folder:
-
-```bash
-# Python
-python -m http.server 8000
-
-# Node
-npx serve .
-```
-
-Then visit `http://localhost:8000`.
-
 ## Deploying to GitHub Pages
 
 1. Push this repository to GitHub.
