@@ -2,7 +2,7 @@
 
 A fast, private, free word counter that runs entirely in your browser. Paste or type text to instantly see word, character, sentence, and paragraph counts along with an estimated reading time.
 
-Built by **Ethereal Studios**.
+Built by [Ethereal Studios](https://builtbyethereal.com/).
 
 ## Features
 
@@ -33,4 +33,4 @@ Built by **Ethereal Studios**.
 
 ## License
 
-© Ethereal Studios. All rights reserved.
+© [Ethereal Studios](https://builtbyethereal.com/). All rights reserved.
